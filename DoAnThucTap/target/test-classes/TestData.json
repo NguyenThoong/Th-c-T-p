@@ -1,0 +1,66 @@
+{
+  "DataTest": {
+    "Module_DangKy_DangNhap": {
+      "TaiKhoanHopLe": {
+        "title": "Mr.",
+        "name": "Nguyễn Tấn Hoàng Thông",
+        "email": "thong.vlu2026@gmail.com",
+        "password": "Thong@2026",
+        "birth_day": "22",
+        "birth_month": "June",
+        "birth_year": "2000"
+      },
+      "TaiKhoanDaCoSan": {
+        "name": "Nguyễn Hoàng Thông",
+        "email": "thong.cosan2026@gmail.com",
+        "password": "Thong@2026"
+      },
+      "DiaChiGiaoHang": {
+        "first_name": "Thông",
+        "last_name": "Nguyễn",
+        "company": "Van Lang University",
+        "address1": "45 Nguyễn Văn Bảo",
+        "address2": "Phường 4",
+        "country": "Singapore",
+        "state": "Gò Vấp",
+        "city": "Hồ Chí Minh",
+        "zipcode": "70000",
+        "mobile_number": "0908123456"
+      },
+      "TaiKhoanSai": {
+        "email_sai_dinh_dang": "thong.vlu2026@com",
+        "email_chua_ky_so": "wrong_thong@gmail.com",
+        "password_sai": "WrongPass123"
+      }
+    },
+    "Module_SanPham_GioHang": {
+      "TuKhoaTimKiem": {
+        "hop_le": "Dress",
+        "khong_ton_tai": "AoDaiVietNam123"
+      },
+      "SanPhamMua": {
+        "id_san_pham_1": "Blue Top",
+        "id_san_pham_2": "Men Tshirt",
+        "so_luong_mua": "1"
+      }
+    },
+    "Module_ContactUs": {
+      "FormLienHe": {
+        "name": "Nguyễn Tấn Hoàng Thông",
+        "email": "thong.vlu2026@gmail.com",
+        "subject": "Đồ án thực tập",
+        "message": "Hệ thống giao diện hiển thị rất tốt, luồng thanh toán chạy ổn định.",
+		"file_path": "D:\\CongViecThucTap\\vlulogo.png"
+      }
+    },
+    "Module_ThanhToan_Payment": {
+      "TheNganHang": {
+        "name_on_card": "NGUYEN TAN HOANG THONG",
+        "card_number": "4111222233334444",
+        "cvc": "321",
+        "expiry_month": "12",
+        "expiry_year": "2029"
+      }
+    }
+  }
+}

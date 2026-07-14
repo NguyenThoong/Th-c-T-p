@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-07-07T10:56:07 GMT+07:00" name="Default suite" finished-at="2026-07-07T10:56:55 GMT+07:00" duration-ms="47851">
+    <groups>
+    </groups>
+    <test started-at="2026-07-07T10:56:07 GMT+07:00" name="Default test" finished-at="2026-07-07T10:56:55 GMT+07:00" duration-ms="47851">
+      <class name="com.vlu.tests.TestDraft">
+        <test-method is-config="true" signature="setupClass()[pri:0, instance:com.vlu.tests.TestDraft@2e377400]" started-at="2026-07-07T10:56:08 GMT+07:00" name="setupClass" finished-at="2026-07-07T10:56:08 GMT+07:00" duration-ms="25" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupClass -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.vlu.tests.TestDraft@2e377400]" started-at="2026-07-07T10:56:08 GMT+07:00" name="setup" finished-at="2026-07-07T10:56:12 GMT+07:00" duration-ms="4386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="TC_24_PlaceOrder_DownloadInvoice_Test()[pri:5, instance:com.vlu.tests.TestDraft@2e377400]" started-at="2026-07-07T10:56:12 GMT+07:00" name="TC_24_PlaceOrder_DownloadInvoice_Test" description="TC_024: Xác thực quy trình mua hàng kết hợp đăng ký tài khoản trực tiếp lúc checkout, thanh toán, tải tệp hóa đơn và xóa tài khoản" finished-at="2026-07-07T10:56:55 GMT+07:00" duration-ms="43072" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_24_PlaceOrder_DownloadInvoice_Test -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.vlu.tests.TestDraft@2e377400]" started-at="2026-07-07T10:56:55 GMT+07:00" name="tearDown" finished-at="2026-07-07T10:56:55 GMT+07:00" duration-ms="322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.vlu.tests.TestDraft -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

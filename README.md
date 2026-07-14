@@ -51,4 +51,4 @@ DoAnThucTap/
 └── src/test/resources/                  # Tài nguyên phục vụ kiểm thử
     ├── adblock.crx                       # Extension hỗ trợ chặn quảng cáo Google Ads
     ├── ublock.crx                        # Extension uBlock Origin tối ưu giao diện
-    └── TestData.json                     # Tệp tin chứa 26 bộ dữ liệu kiểm thử ngoại vi
+    └── TestData.json                     # Tệp tin chứa bộ dữ liệu kiểm thử ngoại vi
